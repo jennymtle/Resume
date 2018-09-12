@@ -1,9 +1,7 @@
 # JENNY LE
 
-![me](me%20af.jpg)
-
 <p align="center">
-  <img width="460" height="300" src="me%20af.jpg">
+  <img width="460" height="460" src="me%20af.jpg">
 </p>
 
 ## Education
