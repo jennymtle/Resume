@@ -1,6 +1,6 @@
 # JENNY LE
 
-![me](me%20af.jpeg)
+![me](me%20af.jpg)
 
 ## Education
 
