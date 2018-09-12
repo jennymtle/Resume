@@ -1,6 +1,6 @@
 # JENNY LE
 
-
+![profile photo](profile.jpeg)
 
 ## Education
 
@@ -33,7 +33,7 @@ Creating a Youtube channel that highlights the diversity of students who identif
 Club member, Spring 2017
 
 - **CS FRIDAY’S CLUB**
-Unofficial club about current technology
+Unofficial club about current technology, Spring 2017
 
 - **STREAM FESTIVAL**
 Volunteer, Spring 2017
