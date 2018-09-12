@@ -18,10 +18,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. testing
+2. testing
 
-**Bold** and _Italic_ and `Code` text
+**TESTING** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
