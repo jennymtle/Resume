@@ -2,6 +2,10 @@
 
 ![me](me%20af.jpg)
 
+<p align="center">
+  <img width="460" height="300" src="me%20af.jpg">
+</p>
+
 ## Education
 
 - **El Camino High School** 
