@@ -1,6 +1,6 @@
 # JENNY LE
 
-![me af](profile.jpeg)
+![me](https://github.com/jennymtle/Resume/blob/master/me%20af.jpg)
 
 ## Education
 
